@@ -1,0 +1,2 @@
+webdriver.chrome.driver
+//Users//izzet//selenium//chromedriver-1
